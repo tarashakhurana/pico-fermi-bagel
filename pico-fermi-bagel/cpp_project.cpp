@@ -1,7 +1,6 @@
 /*
-Program for the game 'Pico Fermi Bagel'
-Written by : Tarasha Khurana
-             Shruti Singh
+** Program for the game 'Pico Fermi Bagel'
+** Written by : Tarasha Khurana
 */
 
 #include <iostream.h>
